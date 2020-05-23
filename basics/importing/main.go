@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println("GO !")
 	f.Println("There we GO !")
+
+	test()
 }

@@ -10,5 +10,5 @@ func nope() {
 }
 
 func main() {
-	fmt.Println(hello, ok)
+	fmt.Println(hello, ok) // no inside the scope
 }

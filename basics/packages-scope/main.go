@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello!")
 
-	bye()
+	gotest()
 }
 
 // func bye() {
