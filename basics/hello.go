@@ -14,6 +14,6 @@ func hey() {
 	fmt.Println("Hey!")
 }
 
-func bye() {
-	fmt.Println("Bye")
-}
+// func bye() {
+// 	fmt.Println("Bye")
+// }
